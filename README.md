@@ -1,16 +1,11 @@
 # xylophone_flutter
-
 Tap to play! An interactive instrument app created for The App Brewery Flutter Course.
 
-## Getting Started
+## Topics covered in the creation of the project
+Using Dart Packages
+Dart functions with parameters and return values
+Using documentation to update code to the most recent version
 
-This project is a starting point for a Flutter application.
+This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at www.appbrewery.co
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+*Project recreated from [https://github.com/londonappbrewery/dicee-flutter](https://github.com/londonappbrewery/xylophone-flutter) to update to most recent Flutter version.
